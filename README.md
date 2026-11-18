@@ -2,6 +2,8 @@
 
 KV Freight is a landing-page web application for a freight network offering air, ocean, road, and customs brokerage services under one team.
 
+<img width="1900" height="889" alt="Screenshot 2026-11-18 211548" src="https://github.com/user-attachments/assets/7ae3cd69-2ef1-4f4c-8a25-91158ad8ce22" />
+
 ## Tech stack
 
 - [Vite](https://vite.dev/) (dev server and build tooling)
